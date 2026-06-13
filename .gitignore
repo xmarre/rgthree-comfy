@@ -3,6 +3,8 @@ __pycache__
 wildcards/**
 .vscode/
 .idea/
+.vs/
+.codex/
 node_modules/
 rgthree_config.json
 web/rgthree_config.js
